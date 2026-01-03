@@ -2,11 +2,14 @@
 <h3 align="center">BCA Student | Music Producer | Winter of Code '26</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aman-singh-bhati-31a3182b8">
+  <a href="https://linkedin.com/in/your-linkedin-id">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/AmanSinghBhat12">
+  <a href="https://x.com/nivelone">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -18,11 +21,11 @@
 
 ### 🚀 **About Me**
 
-- 🎓 **2nd-year BCA Student** at Sinhagad College (SPPU).
+- 🎓 2nd-year **BCA Student** at Sinhagad College, Pune.
 - ❄️ **Winter of Code 5.0** Participant.
 - 🎹 Trap & Drill Music Producer as **prodbyaman**.
-- 🇫🇷 Learning **French** (Level: A2).
-- 🌱 Mastering: **React.js**, **CSS Flexbox**, and **Responsive Design**.
+- 🇫🇷 Currently learning French (Goal: A2).
+- 🌱 I'm currently mastering: **React.js** & **Advanced CSS**.
 
 ---
 
@@ -32,7 +35,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -41,8 +43,13 @@
 
 ---
 
-### 📈 **My Coding Activity**
+### 📈 **My GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nivelone&show_icons=true&theme=radical&hide_border=true" alt="Aman's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nivelone&theme=radical&hide_border=true" alt="Aman's Streak" />
 </p>
+
+---
+
+<p align="center">⭐️ From NivelOne</p>
